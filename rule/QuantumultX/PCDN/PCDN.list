@@ -31,7 +31,8 @@ host-suffix, p2p.huya.com, reject
 host-suffix, stun.yfp2p.net, reject
 host-suffix, mcdn.bilivideo.cn, reject
 host-wildcard, stun.*.qvb.qcloud.com, reject
-;host-wildcard, *-p2p-pull.(video|live)-voip.com, reject
+host-wildcard, *-p2p-pull.video-voip.com, reject
+host-wildcard, *-p2p-pull.live-voip.com, reject
 host-wildcard, *-p2p.pull.yximgs.com, reject
 host-wildcard, config-p2p-*.vcloud.ks-live.com, reject
 host-wildcard, *pcdn*.xxpkg.com, reject
