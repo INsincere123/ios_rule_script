@@ -31,12 +31,12 @@ host-suffix, p2p.huya.com, reject
 host-suffix, stun.yfp2p.net, reject
 host-suffix, mcdn.bilivideo.cn, reject
 host-wildcard, stun.*.qvb.qcloud.com, reject
-host-wildcard, *-p2p-pull.(video|live)-voip.com, reject
+;host-wildcard, *-p2p-pull.(video|live)-voip.com, reject
 host-wildcard, *-p2p.pull.yximgs.com, reject
 host-wildcard, config-p2p-*.vcloud.ks-live.com, reject
 host-wildcard, *pcdn*.xxpkg.com, reject
 host-wildcard, stun.*.douyucdn.cn, reject
-host-wildcard, trk-*\\.douyucdn.cn, reject
+host-wildcard, trk-*.douyucdn.cn, reject
 host-wildcard, p2pchunk-*.douyucdn.cn, reject
 host-wildcard, p2pable-*.douyucdn.cn, reject
 host-wildcard, dyp2p-*.douyucdn2.cn, reject
