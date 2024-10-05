@@ -29,6 +29,7 @@ host-suffix, p2ptun.qq.com, reject
 host-suffix, pcdn.yximgs.com, reject
 host-suffix, p2p.huya.com, reject
 host-suffix, stun.yfp2p.net, reject
+host-suffix, szbdyd.com, reject
 host-suffix, mcdn.bilivideo.cn, reject
 host-wildcard, stun.*.qvb.qcloud.com, reject
 host-wildcard, *-p2p-pull.video-voip.com, reject
