@@ -1,0 +1,12 @@
+user-agent, mytv*, MediaHK
+host-suffix, mytvsuper.com, MediaHK
+host-suffix, tvb.com, MediaHK
+host-suffix, nowe.com, MediaHK
+host-suffix, nowestatic.com, MediaHK
+user-agent, Viu*, MediaHK
+host-suffix, viu.com, MediaHK
+host-suffix, viu.tv, MediaHK
+host, api.viu.now.com, MediaHK
+host, d1k2us671qcoau.cloudfront.net, MediaHK
+host, d2anahhhmp1ffz.cloudfront.net, MediaHK
+host, dfp6rglgjqszk.cloudfront.net, MediaHK
