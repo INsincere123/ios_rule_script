@@ -1,0 +1,4 @@
+host,mesu.apple.com,iosupdate
+host,gdmf.apple.com,iosupdate
+host,updates-http.cdn-apple.com,iosupdate
+host,xp.apple.com,iosupdate
