@@ -1,0 +1,7 @@
+DOMAIN, prd-info-umamusume.akamaized.net, 日本节点
+DOMAIN, prd-storage-umamusume.akamaized.net, 日本节点
+DOMAIN, prd-storage-game-umamusume.akamaized.net, 日本节点
+USER-AGENT, *umamusume*, 日本节点
+USER-AGENT, *ウマ娘*, 日本节点
+DOMAIN-KEYWORD, umamusume, 日本节点
+DOMAIN-KEYWORD, cygames, 日本节点
