@@ -1,7 +1,7 @@
 host, prd-info-umamusume.akamaized.net, 日本节点
 host, prd-storage-umamusume.akamaized.net, 日本节点
 host, prd-storage-game-umamusume.akamaized.net, 日本节点
-user-agent, umamusume, 日本节点
-user-agent, ウマ娘, 日本节点
+user-agent, *umamusume*, 日本节点
+user-agent, *ウマ娘*, 日本节点
 host-keyword, umamusume, 日本节点
 host-keyword, cygames, 日本节点
