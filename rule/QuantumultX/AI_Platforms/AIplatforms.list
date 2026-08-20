@@ -1,0 +1,60 @@
+# BardAI / Gemini
+DOMAIN,ai.google.dev
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+
+# OpenAI / ChatGPT
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,livekit.cloud
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-KEYWORD,openai
+
+# Claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN,cdn.usefathom.com
+
+# Copilot
+DOMAIN-SUFFIX,copilot.microsoft.com
+
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+
+# Grok
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+
+# Meta AI
+DOMAIN-SUFFIX,meta.ai
+
+# Mistral AI
+DOMAIN-SUFFIX,mistral.ai
+
+# Poe
+DOMAIN-SUFFIX,poe.com
+
+# Character AI
+DOMAIN-SUFFIX,character.ai
