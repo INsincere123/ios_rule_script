@@ -1,0 +1,29 @@
+# ウマ娘 プリティーダービー / 赛马娘 —— Loon 规则列表
+# 生成：2026-11-17，来源 Loon 抓包（116 条请求 / 9 个 host）+ 对齐 Clash profile 的「赛马娘&dmm」规则块
+# 覆盖：官方 API、官方 CDN，以及 DMM 平台（赛马娘 DMM 版启动器/资源，按用户要求并入）
+# 不纳入：统计、归因、广告类（facebook、adjust、app-analytics-services、firebase）
+# 用法：[Remote Rule] 加载本文件，policy=赛马娘
+
+# 官方站点与游戏 API
+# 实测：api.games.umamusume.jp 69 条请求 / 4.1 MB（team_stadium / gacha / idle_single_mode）
+DOMAIN-SUFFIX,umamusume.jp
+
+# 官方资源 CDN
+# 实测：prd-storage-app-umamusume.akamaized.net 9 条请求 / 7.2 MB（/dl/resources）
+DOMAIN,prd-storage-app-umamusume.akamaized.net
+# PC / DMM 版资源前缀（手机端抓包未出现，与 Clash 侧保持一致）
+DOMAIN,prd-storage-game-umamusume.akamaized.net
+DOMAIN,prd-storage-umamusume.akamaized.net
+
+# Cygames 官方 API
+DOMAIN-SUFFIX,cygames.jp
+DOMAIN-SUFFIX,cygames.com
+
+# DMM 平台（赛马娘 DMM 版）
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,navismithapis-cdn.com
+
+# 兜底（抓包中未出现，按域名特征覆盖其它 uma 专用 CDN/子域）
+DOMAIN-KEYWORD,umamusume
+DOMAIN-KEYWORD,ウマ娘
